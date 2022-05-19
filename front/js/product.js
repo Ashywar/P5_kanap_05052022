@@ -73,9 +73,11 @@ function displayProduct() {
         addToCart(productOptions);
     });
 }
-displayProduct();
+
 
 // Ajout d'un produit au panier
 function addToCart() {
 
 }
+
+displayProduct();
